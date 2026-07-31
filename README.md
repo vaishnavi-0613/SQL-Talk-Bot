@@ -10,6 +10,10 @@ powered by Groq's Llama models via LangChain.
 
 
 
+🔗 \*\*Live demo:\*\* https://sql-talk-bot-pmb976yehcawqdn9ux2jid.streamlit.app
+
+
+
 \## Setup
 
 1\. `pip install -r requirements.txt`
